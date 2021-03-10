@@ -1,7 +1,8 @@
-class Bike 
+# frozen_string_literal: true
 
-def working?
+class Bike
+  def working?
+  true 
 
-end 
-
-end 
+  end
+end
